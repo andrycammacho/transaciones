@@ -1,0 +1,11 @@
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.exe
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.deps.json
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.runtimeconfig.json
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.dll
+C:\Users\DELL\Source\Repos\pavel\pavel\bin\Debug\netcoreapp3.1\pavel.pdb
+C:\Users\DELL\Source\Repos\pavel\pavel\obj\Debug\netcoreapp3.1\pavel.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\pavel\pavel\obj\Debug\netcoreapp3.1\pavel.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\pavel\pavel\obj\Debug\netcoreapp3.1\pavel.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\pavel\pavel\obj\Debug\netcoreapp3.1\pavel.dll
+C:\Users\DELL\Source\Repos\pavel\pavel\obj\Debug\netcoreapp3.1\pavel.pdb
